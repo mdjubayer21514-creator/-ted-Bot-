@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,4 +16,4 @@ body{background:#0e0e0e;color:white;font-family:Arial;text-align:center;padding:
 body{background:#0e0e0e;color:white;font-family:Arial;text-align:center;padding:10px}
 .tab{padding:12px 20px;margin:5px;border-radius:10px;border:none;font-weight:bold}
 .active{background:#00ff88;color:black}
-.inactive{background:
+.
