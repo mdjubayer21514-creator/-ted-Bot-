@@ -1,4 +1,12 @@
-
+function updateTimer(){
+ let s=new Date().getSeconds(); let r=60-s;
+ document.getElementById('nextCandle').textContent=`00:${r<10?'0'+r:r}`;
+ if(s===0) generateSignal();
+}
+setInterval(updateTimer,1000);
+</script>
+</body>
+</html>
  <!DOCTYPE html>
 <html>
 <head>
